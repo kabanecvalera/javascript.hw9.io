@@ -1,0 +1,7 @@
+{
+  "SpeedText": "example-project",
+  "version": "6.9.1",
+  "devDependencies": {
+    "grunt": "1.0.0"
+  }
+}
